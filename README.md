@@ -1,6 +1,6 @@
 
 The file main.py can be used for genereting all the trading indicators.
-There 2 webservers
+There are 2 webservers:
 - webUserAdming.py for creating a new user
 - webMain is the mainGui to go though the outcome of the analysis
 
